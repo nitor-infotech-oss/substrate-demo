@@ -1,4 +1,4 @@
-# Substrate Node Template
+# Substrate Demo
 In this repository, Here we build 3 pallets
 * Calculator: This pallet is build to perform Basic arithmatic operations.
 * Store: This pallet is build to store employee details.
